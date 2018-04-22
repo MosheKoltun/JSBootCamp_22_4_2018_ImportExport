@@ -1,0 +1,13 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file1.js",
+  "dependencies": {
+    "typescript": "^2.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node_modules\.bin\tsc  -p tsconfig.json && file2.ts"
+  }
+}
